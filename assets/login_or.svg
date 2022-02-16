@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="23" viewBox="0 0 151 23">
+    <g id="Group_2" transform="translate(-112 -388)">
+        <line id="Line_1" x2="151" transform="translate(112 399.5)" fill="none" stroke="#f6921e" stroke-width="1"/>
+        <g id="Group_1" transform="translate(2.5)">
+            <g id="Ellipse_2" transform="translate(173 388)" fill="#fff" stroke="#f6921e" stroke-width="1">
+                <circle cx="11.5" cy="11.5" r="11.5" stroke="none"/>
+                <circle cx="11.5" cy="11.5" r="11" fill="none"/>
+            </g>
+            <text id="OR" transform="translate(177 403)" fill="#484848" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">OR</tspan></text>
+        </g>
+    </g>
+</svg>

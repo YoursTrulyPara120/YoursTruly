@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650493205713",
+    "project_id": "para-120",
+    "storage_bucket": "para-120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650493205713:android:203697a56a42f08d4a39f0",
+        "android_client_info": {
+          "package_name": "com.para120.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650493205713-7uk3cdgjfncl4u09ahhs67q4c7770eq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOCXq9RqlRQrxbmhZ4f-7GFaTnMkXy_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650493205713-7uk3cdgjfncl4u09ahhs67q4c7770eq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
